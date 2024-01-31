@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000246265308",
+    "project_id": "befit-firebase-crud",
+    "storage_bucket": "befit-firebase-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000246265308:android:d7a752cf121ed14c80bb19",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpHHWEzVenjAxHeUEdXKdQU-vHt9F_u_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
